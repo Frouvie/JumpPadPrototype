@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 297d5617c71443f4bab8004953f192ba, type: 3}
+  m_Name: Common Chest
+  m_EditorClassIdentifier: 
+  _cost: 1
+  _chestLoot:
+  - {fileID: 1125519149116821107, guid: 7941096296a64a243a88d6e5b022f491, type: 3}
+  - {fileID: 6512765075388218086, guid: c555fe8b495e3e64b845a6b63787007e, type: 3}
